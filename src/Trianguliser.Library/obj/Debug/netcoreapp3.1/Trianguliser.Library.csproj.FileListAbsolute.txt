@@ -1,0 +1,9 @@
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/bin/Debug/netcoreapp3.1/Trianguliser.Library.deps.json
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/bin/Debug/netcoreapp3.1/Trianguliser.Library.dll
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/bin/Debug/netcoreapp3.1/Trianguliser.Library.pdb
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/obj/Debug/netcoreapp3.1/Trianguliser.Library.csprojAssemblyReference.cache
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/obj/Debug/netcoreapp3.1/Trianguliser.Library.csproj.CoreCompileInputs.cache
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/obj/Debug/netcoreapp3.1/Trianguliser.Library.AssemblyInfoInputs.cache
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/obj/Debug/netcoreapp3.1/Trianguliser.Library.AssemblyInfo.cs
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/obj/Debug/netcoreapp3.1/Trianguliser.Library.dll
+/Users/aidantwomey/src/computational_geometry/src/Trianguliser.Library/obj/Debug/netcoreapp3.1/Trianguliser.Library.pdb
